@@ -181,10 +181,10 @@ main {
   transform: scale(3);
 }
 
-.cursor.explore-active {
+/* .cursor.explore-active {
   background: white;
   transform: scale(2);
-}
+} */
 
 .cursor-text {
   position: absolute;

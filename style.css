@@ -323,7 +323,7 @@ body.hide {
   }
   .fashion-img img {
     height: 50vh;
-    object-position: top;
+    /* object-position: top; */
   }
 }
 

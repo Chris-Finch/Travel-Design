@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "Noelle's label art",
+		"path": "../../Noelle's label art"
+	},
+	{
+		"name": "Travel Design Project",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Travel Design Project"
+  }
+}
